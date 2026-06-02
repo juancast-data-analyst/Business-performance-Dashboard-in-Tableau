@@ -90,7 +90,7 @@ Transformar los datos transaccionales de Andes Retail Group en información visu
 
 ---
 
-👤 Autor Juan Castelblanco - Analista de Datos - Sprint 8 - Análisis de Factores de Comportamiento de Clientes 2024 NovaRetail
+👤 Autor Juan Castelblanco - Analista de Datos 
 
 📝 Licencia Este proyecto es de uso educativo y forma parte del programa de análisis de datos.
 
