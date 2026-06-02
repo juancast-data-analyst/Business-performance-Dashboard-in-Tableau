@@ -94,5 +94,3 @@ Transformar los datos transaccionales de Andes Retail Group en información visu
 
 📝 Licencia Este proyecto es de uso educativo y forma parte del programa de análisis de datos.
 
-*Análisis basado en datos transaccionales 2024–2025 | Andes Retail Group – Data Analytics Team*  
-*Fecha de análisis: Febrero 2026*
