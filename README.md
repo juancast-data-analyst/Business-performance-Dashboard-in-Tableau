@@ -47,6 +47,15 @@ Transformar los datos transaccionales de Andes Retail Group en información visu
 
 ---
 
+## 🛠️ Herramientas utilizadas
+
+- Tableau Public
+- Visualizaciones nativas (barras, líneas, mapas, tarjetas KPI)
+- Modelo de narrativa SQCA
+- Jupyter Notebook o Colab
+
+---
+
 ## 📊 Etapas del proyecto
 
 | Paso | Descripción |
@@ -57,15 +66,6 @@ Transformar los datos transaccionales de Andes Retail Group en información visu
 | 4 | Construcción de Vista General y Vista Detalle |
 | 5 | Configuración de filtros e interacciones entre vistas |
 | 6 | Narrativa SCQA y mensaje ejecutivo para stakeholders |
-
----
-
-## 🛠️ Herramientas utilizadas
-
-- Tableau Public
-- Visualizaciones nativas (barras, líneas, mapas, tarjetas KPI)
-- Modelo de narrativa SQCA
-- Jupyter Notebook o Colab
 
 ---
 
