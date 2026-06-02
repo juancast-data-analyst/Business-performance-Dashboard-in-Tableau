@@ -11,8 +11,11 @@ El dataset `Andes_Retail_Group_2024_2025` incluye transacciones de ventas de los
 - `notebooks/S10_Proyecto_Desempeno_Comercial.ipynb`
   → Notebook de planificación y documentación del proyecto: KPIs seleccionados, diseño del dashboard, narrativa SCQA y reflexiones del análisis.
 
+- `Proyecto 9_juan_castelblanco.twbx`
+  → Dashboard con los KPIs, graficos, tablas y dashboard Overview y Detalle    
+
 - `data/Andes_Retail_Group_2024_2025.xlsx`
-  → Dataset transaccional con pedidos individuales: fecha, país, región, segmento de cliente, categoría de producto, ingresos, costo y unidades vendidas.
+  → Dataset transaccional con pedidos individuales: fecha, país, región, segmento de cliente, categoría de producto, ingresos, costo y unidades vendidas.  
 
 ---
 
