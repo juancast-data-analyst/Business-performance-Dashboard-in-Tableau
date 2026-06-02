@@ -15,7 +15,10 @@ El dataset `Andes_Retail_Group_2024_2025` incluye transacciones de ventas de los
   → Dashboard con los KPIs, graficos, tablas y dashboard Overview y Detalle    
 
 - `data/Andes_Retail_Group_2024_2025.xlsx`
-  → Dataset transaccional con pedidos individuales: fecha, país, región, segmento de cliente, categoría de producto, ingresos, costo y unidades vendidas.  
+  → Dataset transaccional con pedidos individuales: fecha, país, región, segmento de cliente, categoría de producto, ingresos, costo y unidades vendidas.
+
+- `assets`
+  → Carpeta con capturas de pantalla de los Dashboard Overview y Detalle, con KPIs, graficos y tablas  
 
 ---
 
@@ -24,6 +27,10 @@ El dataset `Andes_Retail_Group_2024_2025` incluye transacciones de ventas de los
 Accede al dashboard interactivo publicado en Tableau Public:
 
 🔗 [Ver Dashboard — Andes Retail Group](https://public.tableau.com/views/Proyecto9_Andesretail/DetalleF)
+
+o:
+
+Abrir carpeta assets para ver dashboards
 
 El dashboard está compuesto por dos vistas:
 
